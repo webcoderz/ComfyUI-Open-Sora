@@ -1,4 +1,4 @@
-colossalai
+#colossalai
 accelerate
 diffusers
 ftfy
@@ -6,8 +6,8 @@ gdown
 mmengine
 pre-commit
 pyav
-tensorboard
+#tensorboard
 timm
 tqdm
 transformers
-wandb
+#wandb
